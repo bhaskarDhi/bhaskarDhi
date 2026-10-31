@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/bhaskarDhi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Laravel+%7C+React+%7C+Spring+Boot+%7C+Python;Building+RAG+%26+AI-powered+apps;DevOps+%26+CI%2FCD+enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Developer+%40+ASDMA;Full-Stack+Developer;Laravel+%7C+React+%7C+Spring+Boot+%7C+Python;Building+RAG+%26+AI-powered+apps;DevOps+%26+CI%2FCD+enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **software developer** who builds end-to-end applications — from backend APIs and admin dashboards to mobile/web frontends and deployment pipelines.
+I'm a **Software Developer at [ASDMA](https://asdma.assam.gov.in)** (Assam State Disaster Management Authority), building end-to-end applications — from backend APIs and admin dashboards to mobile/web frontends and deployment pipelines.
 
 - 🏛️ Built multiple **government and enterprise systems** (scorecards, reporting portals, record management)
 - 🤖 Exploring **AI & Retrieval-Augmented Generation** — chatting with PDFs and videos using LLMs
@@ -57,7 +57,7 @@ I'm a **software developer** who builds end-to-end applications — from backend
 | [**pdf_rag**](https://github.com/bhaskarDhi/pdf_rag) | Ask questions about PDF documents using Retrieval-Augmented Generation | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [**video_rag**](https://github.com/bhaskarDhi/video_rag) · [**api**](https://github.com/bhaskarDhi/video_rag_api) | RAG over video content — web client plus Python API backend | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [**gst_desktop_app**](https://github.com/bhaskarDhi/gst_desktop_app) | Desktop application for GST billing and management | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| [**scorecardFrontend**](https://github.com/bhaskarDhi/scorecardFrontend) | Performance scorecard dashboard frontend | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| [**scorecardFrontend**](https://github.com/bhaskarDhi/scorecardFrontend) | ASDMA performance scorecard dashboard frontend | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [**notes-devops**](https://github.com/bhaskarDhi/notes-devops) | DevOps notes and Infrastructure-as-Code with Terraform | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white) |
 | [**cicd_basic**](https://github.com/bhaskarDhi/cicd_basic) | CI/CD pipeline setup for a Laravel application | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) |
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/bhaskarDhi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Developer+%40+ASDMA;Full-Stack+Developer;Laravel+%7C+React+%7C+Spring+Boot+%7C+Python;Building+RAG+%26+AI-powered+apps;DevOps+%26+CI%2FCD+enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Developer+%26+DevOps+%40+ASDMA;Full-Stack+Developer;Laravel+%7C+React+%7C+Spring+Boot+%7C+Python;Building+RAG+%26+AI-powered+apps;DevOps+%26+CI%2FCD+enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Developer at [ASDMA](https://asdma.assam.gov.in)** (Assam State Disaster Management Authority), building end-to-end applications — from backend APIs and admin dashboards to mobile/web frontends and deployment pipelines.
+I'm a **Software Developer & DevOps Engineer at [ASDMA](https://asdma.assam.gov.in)** (Assam State Disaster Management Authority), building end-to-end applications — from backend APIs and admin dashboards to mobile/web frontends and deployment pipelines.
 
 - 🏛️ Built multiple **government and enterprise systems** (scorecards, reporting portals, record management)
 - 🤖 Exploring **AI & Retrieval-Augmented Generation** — chatting with PDFs and videos using LLMs
